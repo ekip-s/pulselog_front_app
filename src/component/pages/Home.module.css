@@ -1,0 +1,39 @@
+.applicationDescription {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.applicationDescription h3 {
+  color: var(--text_color);
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.applicationDescription p {
+  color: rgb(184, 185, 185);
+  letter-spacing: 0.2px;
+}
+
+.testApp {
+  margin-top: 20px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.testAppBorder {
+  background-color: rgba(39, 163, 39, 0.856);
+  border-radius: 10px;
+  padding: 6px;
+}
+
+.testApp div h4 {
+  color: var(--text_color);
+}
+
+.info {
+  padding: 10px;
+}
+
+.info p {
+  color: rgb(184, 185, 185);
+}

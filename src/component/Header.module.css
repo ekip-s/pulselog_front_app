@@ -1,0 +1,23 @@
+.header {
+  background-color: var(--main_app_color_2);
+  box-shadow: 1px 1px 7px 0.45px rgba(204, 204, 204, 0.479);
+  margin-bottom: 5px;
+}
+
+.wrapper {
+  margin-left: 7%;
+  margin-right: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo h3 {
+  color: var(--text_color);
+  letter-spacing: 1px;
+  padding: 4px;
+}
+
+.wrapper nav {
+  padding: 7px;
+}

@@ -1,0 +1,11 @@
+.customButton {
+  padding: 4px;
+  background-color: transparent;
+  color: var(--text_color);
+  border-color: var(--text_color);
+  border-radius: 5px;
+}
+
+.customButton:hover {
+  opacity: 0.8;
+}
